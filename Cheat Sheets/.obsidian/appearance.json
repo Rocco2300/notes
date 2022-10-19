@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Obsidian gruvbox",
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "textFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono"
 }
