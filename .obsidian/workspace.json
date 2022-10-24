@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Database Connection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6eb2bbc11c976f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/Database Connection.md",
+                "file": "Cheat Sheets/Databases/Database Connection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Database Connection.md",
+                "file": "Cheat Sheets/Databases/Database Connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Database Connection.md",
+                "file": "Cheat Sheets/Databases/Database Connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Database Connection.md"
+                "file": "Cheat Sheets/Databases/Database Connection.md"
               }
             }
           }
@@ -152,8 +139,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a6eb2bbc11c976f4",
+  "active": "692e93dcfa1c11d6",
   "lastOpenFiles": [
+    "Cheat Sheets/Databases/User management.md",
+    "Cheat Sheets/Databases/Database Connection.md",
     "Databases/User management.md",
     "Databases/Database Connection.md"
   ]
